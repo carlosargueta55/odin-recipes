@@ -1,0 +1,34 @@
+body {
+    color: rgb(29, 28, 28);
+    letter-spacing: 1px;
+    line-height: 1.6;
+    background-color: #C9CEC9;
+}
+
+.image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+h1 {
+    font-weight: 800;
+    font-size: 80px;
+    font-family: Oswald;
+    text-align: center;
+}
+
+div {
+    font-weight: 400;
+    font-family: Oswald;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+
+ul, ol {
+    font-weight: 400;
+    font-family: Oswald;
+    font-size: 15px;
+    color: black;
+}
